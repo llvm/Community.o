@@ -1,0 +1,134 @@
+# Site settings
+baseurl = "communityDotO.llvm.org"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Community.o"
+theme = "syna"
+enableGitInfo = false 
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+ignorefiles = [ "content/dev/.*" ]
+
+# Google Analytics tracking
+googleAnalytics = ""
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[frontmatter]
+  date = ["date", "lastmod"]
+  lastmod = ["lastmod", ":git", "date"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+     unsafe = true
+
+[params]
+  name = "Community.o"
+  description = "Linking communities together"
+  debug = false
+  unsafeEvents = true # Default is false. Enables ?event=type format of url events.
+
+  [params.style]
+    #background = "secondary"
+
+  # Theme customizations
+  # Assets relative to 'static/'
+  [params.custom]
+    favicon = "favicon.ico"
+    favicon_ico_sizes = "16x16 32x32"
+    favicon_png = "favicon.png"
+    favicon_svg = "favicon.svg"
+
+  # Piwik tracking
+  [params.analytics.piwik]
+    #url = "https://use.example.net"
+    #id = ""
+    #domain = "*" # Track subdomains via "*.example.com"
+    # Optional hash for integrity check
+    #hash = "sha512-RfeD0pacGTqy9m7U6PgehQfS4cc7SIt+e+P+H5e848kEvB/RW84CUGO3O4O3LNbxjevym6KPUZ8muPsMrI8WIw=="
+
+  # Optional, global disable switch for fontawesome related files
+  # For custom fontawesome js files use the custom.js method
+  [params.fontawesome]
+    disabled = false
+    pro = false
+
+  [params.colors]
+    primary = "#8531a5"
+    secondary = "#07272e"
+    success = "#008f54"
+    info = "#fab040"
+    warning = "#fdf314"
+    danger = "#dc1200"
+    #light = "#f8f9fa"
+    light = "#ffffff"
+    #dark = "#343a40"
+    dark = "#07272e"
+
+
+# main/prepend/postpend menus are displayed in nav fragment.
+# footer/footer_social menus are displayed in footer fragment.
+# copyright_footer menus are displayed in copyright fragment
+# Keep an eye out for updates. These will be moved out to make navbar more
+# configurable.
+[[menu.main]]
+  url = "/"
+  name = "Home"
+  weight = 10
+
+[[menu.main]]
+  url = "/get_involved"
+  name = "Get Involved"
+  weight = 20
+
+[[menu.main]]
+  url = "/groups"
+  name = "Groups"
+  weight = 30
+
+[[menu.main]]
+  url = "/Events"
+  name = "Events"
+  weight = 40
+
+[[menu.footer]]
+  url = "https://llvm.org/"
+  name = "LLVM"
+  weight = 10
+
+[[menu.footer]]
+  url = "https://foundation.llvm.org/"
+  name = "LLVM Foundation"
+  weight = 20
+
+[[menu.footer_social]]
+  weight = 40
+  name = "twitter"
+  url = "https://twitter.com/llvmorg"
+  pre = "fab fa-twitter"
+
+[[menu.footer_social]]
+  weight = 30
+  name = "Github"
+  url = "https://github.com/llvm"
+  pre = "fab fa-github"
+
+
+[[menu.footer_social]]
+  weight = 50
+  name = "Facebook"
+  url = "https://www.facebook.com/LLVMORG/"
+  pre = "fab fa-facebook"
+
+[[menu.footer_social]]
+  weight = 60
+  name = "YouTube"
+  url = "https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ"
+  pre = "fab fa-youtube"
+
+
+#[[menu.copyright_footer]]
+ # url = "/get_involved"
+#  name = "Get Involved"
+#  weight = 10
