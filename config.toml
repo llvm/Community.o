@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "community-dot-o.llvm.org"
+baseurl = "https://community-dot-o.llvm.org/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Community.o"
