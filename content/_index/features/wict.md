@@ -6,4 +6,4 @@ weight = 10
   icon = "noun_Meeting_2909311.svg"
 +++
 
-Women in Compilers and Tools Group Descrip
+A group for all women. 
