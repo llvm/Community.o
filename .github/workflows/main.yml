@@ -16,7 +16,7 @@ jobs:
       with:
         hugo-version: '0.68.3'
         extended: true
-
+   
    - name: Checkout theme (via submodule)
       uses: textbook/git-checkout-submodule-action@master
 
