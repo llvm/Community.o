@@ -119,7 +119,7 @@ googleAnalytics = ""
   weight = 60
   name = "Email"
   url = "mailto:community.o@llvm.org"
-  pre = "fab fa-envelope"
+  pre = "fas fa-envelope"
 
 
 #[[menu.copyright_footer]]

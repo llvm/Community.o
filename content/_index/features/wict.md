@@ -3,7 +3,7 @@ title = "Women in Compilers and Tools"
 weight = 10
 
 [asset]
-  icon = "images/noun_Meeting_2909311.svg"
+  icon = "fas fa-users"
 +++
 
 A group for women in compilers and tools. 

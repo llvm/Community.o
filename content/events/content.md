@@ -9,4 +9,4 @@ title = ""
 #subtitle = ""
 +++
 
-More information coming soon.
+The Community.o Summit will be held virtually March 8-10, 2021. Please visit the [Community.o Summit website](https://llvm.swoogo.com/community-o-summit/) for more information. 

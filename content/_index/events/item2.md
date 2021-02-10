@@ -5,5 +5,5 @@ subtitle = "See more..."
 item_url = "events"
 
 [asset]
-  image = "cat-1.jpeg"
+  image = "more-events.png"
 +++
