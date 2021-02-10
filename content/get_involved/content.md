@@ -5,32 +5,25 @@ date = "2017-10-05"
 weight = 100
 #background = ""
 
-title = "Getting Involved"
+title = ""
 #subtitle = ""
 +++
 
-#### Join our Discord or Discourse Forums
+#### Talk with us
 
-Links to our discord and discourse forums coming soon.
+Discord: [#community-dot-o](https://discord.com/channels/636084430946959380/808873828809179186)
+
+Discourse: [https://llvm.discourse.group/c/community/community-dot-o/43](https://llvm.discourse.group/c/community/community-dot-o/43)
 
 #### Join a Group
 
-We have specific community groups for people to connect with others with similar backgrounds and experiences. Currently, we have one group: Women in Compilers and Tools. Add more information.
-
-#### Help remove barriers
-
-During one of our previous Women in Compilers and Tools workshops, the focus was on removing barriers for newcomers to the LLVM Project. Ideally put the information here.
-
-#### Help Plan our events
-
-Want to plan an event? Lets talk. More info or link to Events page.
-
-#### Attend or Speak at our Events
-
-We need speakers and people to attend events.
+We have specific [community groups](https://community-dot-o.llvm.org/groups/) for people to connect with others with similar backgrounds and experiences. Currently, we have one group: Women in Compilers and Tools. If you are intersted in starting a community group, please [email us](mailto:community.o@llvm.org) or reach out on Discourse/Discord. 
 
 
-#### Donate to the LLVM Foundation
+#### Attend our Events
 
-This program is supported and funded by the LLVM Foundation.  Include a thank you to the sponsors or should we list them here?
+The [Community.o Summit](https://llvm.swoogo.com/community-o-summit/) is on March 8-10, 2021. While it is free to attend, you must submit an application by February 26, 2021. 
 
+#### More information coming soon
+
+Watch this page for updates as we post more information on how to get involved.
