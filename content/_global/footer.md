@@ -8,7 +8,7 @@ background = "dark"
 menu_title = ""
 
 [asset]
-  image = "mark-outlined-inner-dragon-v1-rgb-real_community.o-logo-stacked-tag-rgb.svg"
+  image = "mark-outlined-inner-dragon-v1-rgb-real_community.o-logo-stacked-white-rgb.svg"
   text = "Community.o"
 +++
 

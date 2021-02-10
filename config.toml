@@ -118,7 +118,7 @@ googleAnalytics = ""
 [[menu.footer_social]]
   weight = 60
   name = "Email"
-  url = "http://mailto:community.o@llvm.org"
+  url = "mailto:community.o@llvm.org"
   pre = "fab fa-envelope"
 
 
