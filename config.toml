@@ -105,27 +105,21 @@ googleAnalytics = ""
 [[menu.footer_social]]
   weight = 40
   name = "twitter"
-  url = "https://twitter.com/llvmorg"
+  url = "https://twitter.com/COMMUNITY_DOT_O"
   pre = "fab fa-twitter"
-
-[[menu.footer_social]]
-  weight = 30
-  name = "Github"
-  url = "https://github.com/llvm"
-  pre = "fab fa-github"
 
 
 [[menu.footer_social]]
   weight = 50
   name = "Facebook"
-  url = "https://www.facebook.com/LLVMORG/"
+  url = "https://www.facebook.com/community.dot.o/"
   pre = "fab fa-facebook"
 
 [[menu.footer_social]]
   weight = 60
-  name = "YouTube"
-  url = "https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ"
-  pre = "fab fa-youtube"
+  name = "Email"
+  url = "http://mailto:community.o@llvm.org"
+  pre = "fab fa-envelope"
 
 
 #[[menu.copyright_footer]]
