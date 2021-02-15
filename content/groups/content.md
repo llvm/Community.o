@@ -4,11 +4,7 @@ fragment = "content"
 date = "2017-10-05"
 weight = 100
 #background = ""
-
-title = ""
-#subtitle = ""
+title= "LLVM Community Groups"
 +++
 
-We currently have one community group - Women in Compilers and Tools. Please check back here for more information coming soon.
-
-If you are interested in starting a community group, please [email us](mailto:community.o@llvm.rg) or reach out on Discourse/Discord.
+This is an opportunity for people to connect with others with similar backgrounds and experiences. Stay tuned here for upcoming events and ways to get involved with a community group you may be interested in. It also is open to anyone, who are allies in the LLVM community, their workplace or university.
