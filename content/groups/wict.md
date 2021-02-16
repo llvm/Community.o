@@ -10,7 +10,7 @@ align = "right"
 image = "networking-purple.svg"
 +++
 
-This community group supports a way to connect women in the field
+This community group is to connect women in the field
  of compilers and tools. This group provides the ability to discuss
  with other women regarding topics that span across the field of compilers
  and tools, which includes supporting inclusivity in the community.
