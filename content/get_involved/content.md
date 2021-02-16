@@ -17,7 +17,7 @@ Discourse: [https://llvm.discourse.group/c/community/community-dot-o/43](https:/
 
 #### Join a Group
 
-We have specific [community groups](https://community-dot-o.llvm.org/groups/) for people to connect with others with similar backgrounds and experiences. Currently, we have one group: Women in Compilers and Tools. If you are intersted in starting a community group, please [email us](mailto:community.o@llvm.org) or reach out on Discourse/Discord. 
+We have specific [community groups](https://community-dot-o.llvm.org/groups/) for people to connect with others with similar backgrounds and experiences. Currently, we have one group: Women in Compilers and Tools. If you are interested in starting a community group, please [email us](mailto:community.o@llvm.org) or reach out on Discourse/Discord.
 
 
 #### Attend our Events
