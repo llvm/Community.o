@@ -17,12 +17,12 @@ Discourse: [https://llvm.discourse.group/c/community/community-dot-o/43](https:/
 
 #### Join a Group
 
-We have specific [community groups](https://community-dot-o.llvm.org/groups/) for people to connect with others with similar backgrounds and experiences. Currently, we have one group: Women in Compilers and Tools. If you are interested in starting a community group, please [email us](mailto:community.o@llvm.org) or reach out on Discourse/Discord.
+We have specific [community groups](../groups/) for people to connect with others with similar backgrounds and experiences. Currently, we have one group: Women in Compilers and Tools. If you are interested in starting a community group, please [email us](mailto:community.o@llvm.org) or reach out on Discourse/Discord.
 
 
 #### Attend our Events
 
-The [Community.o Summit](https://llvm.swoogo.com/community-o-summit/) is on March 8-10, 2021. While it is free to attend, you must submit an application by February 26, 2021. 
+Learn more about previous and upcoming events by visiting the [events page](../events). 
 
 #### More information coming soon
 
