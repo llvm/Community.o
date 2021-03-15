@@ -1,9 +1,10 @@
 +++
 weight = 10
-title = "Community.o Summit"
-subtitle = "March 8-10, 2021"
-item_url = "https://llvm.swoogo.com/community-o-summit/"
+title = "Women in Compilers and Tools Meetup Series"
+subtitle = "Starting March 30th, 2021"
+item_url = "./wict-meetups/"
 
 [asset]
-  image = "SummitEventImage.svg"
+  image = "CommunityDotO.png"
+
 +++
