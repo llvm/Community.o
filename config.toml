@@ -92,6 +92,11 @@ googleAnalytics = ""
   name = "Events"
   weight = 40
 
+[[menu.main]]
+  url = "/jobs"
+  name = "Job Postings"
+  weight = 50
+
 [[menu.footer]]
   url = "https://llvm.org/"
   name = "LLVM"
