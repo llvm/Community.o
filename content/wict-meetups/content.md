@@ -7,8 +7,8 @@ background = "light"
 +++
 
 The LLVM Women in Compilers and Tools Meetup Series is a free virtual event
- held on the last Tuesday of every month at 6PM Pacific Time. It is a
- platform where all women (trans, non-binary, and cis) in various stages
+ held once every month. It is a platform where all women
+ (trans, non-binary, and cis) in various stages
  in their career, speak openly, discuss, and network with others. This
  series will feature talks, tutorials, mentoring events and regularly
  highlights individuals for their contributions to the compiler,
