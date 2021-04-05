@@ -11,7 +11,7 @@ title = ""
 
 #### Talk with us
 
-Discord: [#community-dot-o](https://discord.com/channels/636084430946959380/808873828809179186)
+Discord: [#community-dot-o](https://discord.gg/hwDDWfRVtW)
 
 Discourse: [https://llvm.discourse.group/c/community/community-dot-o/43](https://llvm.discourse.group/c/community/community-dot-o/43)
 

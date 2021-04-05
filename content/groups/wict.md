@@ -21,7 +21,7 @@ This community group is to connect women in the field
 
 ### Chat with us
 
-Discord: [#women](https://discord.com/channels/636084430946959380/636730379080040456)
+Discord: [#women](https://discord.gg/bmPypB883n)
 
 
 
