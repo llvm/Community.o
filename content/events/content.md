@@ -13,4 +13,7 @@ title = ""
 * The Women in Compilers and Tools Meetup Series starts April 22nd, 2021. Please visit [the series page](../wict-meetups) for more information.
 
 ### Past Events 
-* The Community.o Summit will be held virtually March 8-10, 2021. Please visit the [Community.o Summit website](https://llvm.swoogo.com/community-o-summit/) for more information. 
+* The Community.o Summit was held virtually March 8-10, 2021. While many of the sessions were not recorded, you may find various talks available through the LLVM Youtube.  
+  * [2021 Community.o Summit: LLVM Foundation Welcome](https://youtu.be/2PsN3ODutZI)
+  * [2021 Community.o Summit: My Career in Languages and Compilers](https://youtu.be/z7iUHIO2XoQ)
+  * [2021 Community.o Summit: You're NOT Alone: Chasing the Journey of Learning and Belonging](https://youtu.be/JbmR1nEfnh8)
