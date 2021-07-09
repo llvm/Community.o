@@ -1,6 +1,6 @@
 +++
 fragment = "faq"
-weight = 200
+weight = 400
 
 title = "Frequently Asked Questions"
 background = "light"
