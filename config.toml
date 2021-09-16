@@ -97,11 +97,6 @@ googleAnalytics = ""
   name = "Swag"
   weight = 50
 
-[[menu.main]]
-  url = "/jobs"
-  name = "Job Postings"
-  weight = 60
-
 [[menu.footer]]
   url = "https://llvm.org/"
   name = "LLVM"
