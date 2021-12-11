@@ -93,9 +93,14 @@ googleAnalytics = ""
   weight = 40
 
 [[menu.main]]
+  url = "/wict-meetups"
+  name = "WiCT Meetup"
+  weight = 50
+
+[[menu.main]]
   url = "https://www.bonfire.com/store/llvm-foundation/"
   name = "Swag"
-  weight = 50
+  weight = 60
 
 [[menu.footer]]
   url = "https://llvm.org/"

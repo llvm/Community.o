@@ -18,3 +18,4 @@ The LLVM Women in Compilers and Tools Meetup Series is a free virtual event
 This series is organized by The Women in Compilers and Tools (WiCT) working group.
 This working group is composed of volunteers in the LLVM community
  and supported by the LLVM Foundation.
+To learn more about the working group, [check out this LLVM blog post](https://blog.llvm.org/posts/2021-03-31-womenincompilerstoolsmeetup/)!
