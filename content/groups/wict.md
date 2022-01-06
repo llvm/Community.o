@@ -3,7 +3,7 @@ fragment = "item"
 date = "2021-2-14"
 title = "Women in Compilers and Tools"
 weight = 101
-background = "info"
+background = "secondary"
 align = "right"
 
 [asset]
