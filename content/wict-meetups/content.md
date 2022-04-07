@@ -6,8 +6,8 @@ weight = 100
 background = "light"
 +++
 
-The LLVM Women in Compilers and Tools Meetup Series is a free virtual event
- held once every month, starting April 22nd 2021. It is a platform where all women
+The LLVM Women in Compilers and Tools Meetup Series is a free virtual event 
+ started on April 22nd 2021. It is a platform where all women
  (trans, non-binary, and cis) in various stages
  in their career, speak openly, discuss, and network with others. This
  series will feature talks, tutorials, mentoring events and regularly
